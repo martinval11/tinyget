@@ -1,5 +1,6 @@
-# tinyget
+# Tinyget
 A Minimal HTTP Requester
+<a target="_blank" href="LICENSE" title="License: GNU"><img src="https://img.shields.io/badge/License-GNU-green.svg"></a>
 
 <p align="center">
 <img src="https://github.com/martinval11/tinyget/blob/main/example/example.gif"/>
